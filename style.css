@@ -1,0 +1,48 @@
+
+.profile_picture{
+    width: 140px; 
+    height: 150px;
+    border-radius: 50%;
+  
+}
+
+
+body{
+
+    background-color: rgb(246, 243, 207);
+
+}
+
+
+
+
+
+h1{ color: #004777; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+   
+}
+p{  font-style: oblique;
+color: rgb(6, 34, 41);
+
+background-color: bisque;
+
+
+}
+
+h2{ font-family: Arial, Helvetica, sans-serif;}
+
+.Education_header{ color: rgb(91, 170, 0);}
+.experience_header{ color: brown;
+
+ 
+
+}
+.Hobbies_header{ color: gold;}
+
+.edcation{ 
+
+    background-color: aqua;
+}
+
+.intro{ }
+
+
